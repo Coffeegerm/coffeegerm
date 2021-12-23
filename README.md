@@ -59,7 +59,7 @@
       </a>
       <br>MongoDB
     </td>
-    
+    <tr>
     <td align="center"  width="96">
       <a href="#suhailkakar-tech">
         <img src="https://static.cdnlogo.com/logos/g/42/gatsby.svg" width="48" height="48" alt="Gatsby" />

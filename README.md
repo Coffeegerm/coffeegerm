@@ -1,4 +1,6 @@
 ### Hi there 👋
+### I'm David Yarzebinski
+### I build websites and mobiles apps in exchange for money to get tattoos and buy more books!
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=coffeegerm&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 

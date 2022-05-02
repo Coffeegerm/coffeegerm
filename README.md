@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=coffeegerm&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Coffeegerm" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **CarLotz**
+- :office: &nbsp;I'm currently working at **Pingboard**
 - :writing_hand: &nbsp;I read a lot of books and enjoy discussing them with other!
 - :speech_balloon: &nbsp;I like to talk about **Social Issues** and **Typescript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**!

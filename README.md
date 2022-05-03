@@ -1,5 +1,5 @@
 <h1 align="left" id="coffeegerm-title">:wave: Hi there! I'm David Yarzebinski</h1>
-<h3 align="left">I am a Software Developer at CarLotz </h3>
+<h3 align="left">I am a Software Developer at Pingboard </h3>
 
 <a href="#coffeegerm-title">
   <img src="https://github-readme-stats.vercel.app/api?username=coffeegerm&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Coffeegerm" align="right" />

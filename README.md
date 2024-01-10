@@ -3,7 +3,7 @@
 
 
 - :writing_hand: &nbsp;I read a lot of books and enjoy discussing them with others!
-- :speech_balloon: &nbsp;I like to talk about **Social Issues** and **Typescript**
+- :speech_balloon: &nbsp;I like to talk about **Social Issues**, **Equity**, **Video Games**, **Typescript**, and all things to do with computer science.
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help**!
 - :computer: &nbsp;Connect with me on **[LinkedIn]**
 - :bird: &nbsp;See some of my thoughts on **[Twitter]**

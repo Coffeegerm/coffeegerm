@@ -1,5 +1,5 @@
 <h1 align="left" id="coffeegerm-title">:wave: Hi there! I'm David Yarzebinski</h1>
-<h3 align="left">I am a Software Developer at Pingboard </h3>
+<h3 align="left">I am a Software Engineer at Workleap.</h3>
 
 
 - :writing_hand: &nbsp;I read a lot of books and enjoy discussing them with others!
